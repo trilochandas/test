@@ -1,3 +1,3 @@
 <?
-echo "hare krishna";
+echo "hare krishna. haribol!";
 ?>
